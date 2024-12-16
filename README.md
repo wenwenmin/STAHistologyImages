@@ -1,7 +1,5 @@
 # STAHistologyImages: Spatial Transcriptome Analysis with Histology Images 
 
-
-Methods 2024 HistoSPACE: Histology-inspired spatial transcriptome prediction and characterization engine
 # STAHistologyImages
 --------------
 我们建立类似于下面的GitHub项目：
@@ -32,13 +30,15 @@ Methods 2024 HistoSPACE: Histology-inspired spatial transcriptome prediction and
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2023 | **Cell composition inference and identification of layerspecific spatial transcriptional profiles with POLARIS** |   SCIENCE ADVANCES    | [Link](https://www.science.org/doi/10.1126/sciadv.add9818) |         [Link](https://github.com/CODAIT/deep-histopath)   |
 | 2024 | **Accurate Spatial Gene Expression Prediction by Integrating Multi-Resolution Features** |    CVPR   | [Link](https://doi.org/10.48550/arXiv.2403.07592) |  - |
 | 2024 | **Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics** |   PREPRINT    | [Link](https://doi.org/10.48550/arXiv.2412.04072) | - |
-| 2023 | **Cell composition inference and identification of layerspecific spatial transcriptional profiles with POLARIS** |   SCIENCE ADVANCES    | [Link](https://www.science.org/doi/10.1126/sciadv.add9818) |         [Link](https://github.com/CODAIT/deep-histopath)   |
 | 2024 | **Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction** |   PREPRINT    | [Link]( https://doi.org/10.48550/arXiv.2410.00945) |         [Link](https://github.com/mahmoodlab/TANGLE)   |
 | 2024 | **STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics** |   NIPS    | [Link](https://doi.org/10.48550/arXiv.2406.06393) |         [Link](https://github.com/JiawenChenn/STimage-1K4M)   |
 | 2024 | **HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis** |   NIPS    | [Link](https://doi.org/10.48550/arXiv.2406.16192) |         [Link](https://github.com/mahmoodlab/hest)   |
 | 2024 | **ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics** |   PREPRINT    | [Link](https://arxiv.org/html/2412.03026v1) |         [Link](https://github.com/hrlblab/ASIGN)   |
+| 2024 | **HistoSPACE: Histology-inspired spatial transcriptome prediction and characterization engine** |    Methods   | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1046202324002391) |  - |
+
 
 
 
