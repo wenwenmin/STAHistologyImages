@@ -4,6 +4,8 @@
 --------------
 我们建立类似于下面的GitHub项目：
 
+- [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) 
+
 - [ADGC: Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 
 
